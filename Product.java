@@ -52,7 +52,7 @@ public class Product {
     // Main method for testing
     public static void main(String[] args) {
         // Create a product instance
-        Product product = new Product("Laptop", 999.99, 5);
+        Product product = new Product("Laptop", 1999.99, 5);
 
         // Display product details
         System.out.println(product.toString());
