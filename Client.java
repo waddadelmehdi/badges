@@ -47,7 +47,7 @@ public class Client {
     // Main method for testing
     public static void main(String[] args) {
         // Create a client instance
-        Client client = new Client("Alice Johnson", "alice@example.com", "+123456789");
+        Client client = new Client("Alice Johnson", "alice@example.com", "+123556789");
 
         // Display client details
         System.out.println(client.toString());
